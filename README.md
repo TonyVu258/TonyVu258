@@ -17,8 +17,8 @@
 ### 📚 Github Status
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoakiem&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoakiem&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoakhiem&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoakhiem&show_icons=true&theme=tokyonight" height="165">
 </p>
 
 ### 🌐️ Reach me at
