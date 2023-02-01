@@ -4,8 +4,7 @@
 <h3 align="center">I am a Frontend Developer</h3>
 
 ### 🛠 My knowledge
-<div>
-  
+<div align="center">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
@@ -20,7 +19,7 @@
 
 ### 📚 Github Status
 
-<p>
+<p style:"width=100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoakhiem&layout=compact&theme=tokyonight&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=hoakhiem&show_icons=true&theme=tokyonight" height="165">
 </p>
