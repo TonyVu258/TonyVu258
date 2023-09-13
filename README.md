@@ -1,6 +1,6 @@
 <img alt="banner" style="width:100vw" src="https://wallpaperaccess.com/full/1102042.png">
 
-<h1 align="center">Hi 👋, I'm Thien but you could call me Tony</h1>
+<h1 align="center">Hi 👋, I'm Thien but you can call me Tony</h1>
 <h3 align="center">I am a Frontend Developer</h3>
 
 ### 🛠 My knowledge
